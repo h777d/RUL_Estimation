@@ -19,8 +19,7 @@ This repository contains a tool for estimating the Remaining Useful Life (RUL) o
 
 - **RUL Estimation:** Uses machine learning algorithms to estimate the RUL of wind turbine components.
 - **Wind Farm Dataset:** Contains operational data from a wind farm, including time-series data on various parameters.
-- **Preprocessing Scripts:** Includes scripts for data cleaning and preprocessing.
-- **Visualization Tools:** Tools for visualizing data and RUL predictions.
+- **Scripts:** Includes scripts for data cleaning, preprocessing, training models and tools for visualizing data and RUL predictions.
 
 ## Installation
 
