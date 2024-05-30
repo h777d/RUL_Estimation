@@ -9,7 +9,6 @@ This repository contains a tool for estimating the Remaining Useful Life (RUL) o
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Description](#model-description)
 
